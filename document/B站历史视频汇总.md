@@ -1,6 +1,8 @@
-## 面经
 
-- [阿里巴巴5面面经](https://mp.weixin.qq.com/s?__biz=MzI3MzEwOTM2Mw==&amp;mid=2650701572&amp;idx=1&amp;sn=62bb14c25af161798b1345e47a62dc39&amp;chksm=f3228718c4550e0e943f913bfaa6dbd1c40142693a873beca275432e005100d28e2ba942c435&token=797347776&lang=zh_CN#rd)
+
+## 大厂面试题
+
+<iframe src="//player.bilibili.com/player.html?bvid=BV1qR4y1r7L3&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 
