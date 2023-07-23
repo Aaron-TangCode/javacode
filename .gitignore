@@ -1,0 +1,18 @@
+.gradle
+/build/
+/**/build/
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+/**/out/
+.shelf/
+.ideaDataSources/
+dataSources/
+
+### OS ###
+.DS_Store
