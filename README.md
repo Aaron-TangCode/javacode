@@ -18,7 +18,7 @@
 
 ## 联系我
 
-![个人微信](pictures/个人微信.png?raw=true)
+![个人微信](pictures/个人微信.png)
 
 
 
