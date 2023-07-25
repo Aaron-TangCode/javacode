@@ -16,6 +16,10 @@
 
 
 
+## 招聘
+
+[20230725-JAVA招聘](document/20230725-JAVA招聘JD(欢迎投简历).md)
+
 ## 面经
 
 - [阿里巴巴5面面经(已获Offer)](https://mp.weixin.qq.com/s?__biz=MzI3MzEwOTM2Mw==&amp;mid=2650701572&amp;idx=1&amp;sn=62bb14c25af161798b1345e47a62dc39&amp;chksm=f3228718c4550e0e943f913bfaa6dbd1c40142693a873beca275432e005100d28e2ba942c435&token=797347776&lang=zh_CN#rd)
@@ -219,6 +223,8 @@
 [B站历史视频汇总](document/B站历史视频汇总.md)
 
 ## 联系我
+
+WeChat:bigheadit0
 
 ![个人微信](pictures/个人微信.png)
 
