@@ -118,7 +118,7 @@
 
 - [面试MySQL——索引](https://mp.weixin.qq.com/s?__biz=MzI3MzEwOTM2Mw==&amp;mid=2650700815&amp;idx=1&amp;sn=c49612769eff5a7054eafcc6e2584178&amp;chksm=f3228413c4550d0587286f28b345ca56c2392a55c4a9bab28191fb020324ec23f2f25dabfb30&token=797347776&lang=zh_CN#rd)
 
-
+- [慢SQL治理](document/慢SQL治理.md)
 
 
 
