@@ -20,7 +20,10 @@
 
 [如何入门Java](document/如何入门Java.md)
 
-[Java基础知识](document/Java基础知识.md)
+[Java基础-基础知识](document/Java基础-基础知识.md)
+
+[Java基础-集合类](document/Java基础-集合类.md)
+
 
 [在进行技术方案:代码评审时，我们应该关注哪些方面](document/在进行技术方案:代码评审时，我们应该关注哪些方面？.md)
 
