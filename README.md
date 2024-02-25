@@ -18,6 +18,8 @@
 
 ## 最新文章
 
+[哎哟！这个Bug，有点东西](document/哎哟！这个Bug，有点东西.md)
+
 [如何入门Java](document/如何入门Java.md)
 
 [Java基础-基础知识](document/Java基础-基础知识.md)
